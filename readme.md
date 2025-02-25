@@ -1,4 +1,4 @@
-# MultiPDF Chat App
+# DocMate - A MultiPDF Chat App
 
 ## Introduction
 ------------
